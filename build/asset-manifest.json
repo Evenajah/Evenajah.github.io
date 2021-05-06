@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Evenajah.github.io/static/css/main.01c8ce8c.chunk.css",
+    "main.js": "/Evenajah.github.io/static/js/main.284f12fc.chunk.js",
+    "main.js.map": "/Evenajah.github.io/static/js/main.284f12fc.chunk.js.map",
+    "runtime-main.js": "/Evenajah.github.io/static/js/runtime-main.ccc326eb.js",
+    "runtime-main.js.map": "/Evenajah.github.io/static/js/runtime-main.ccc326eb.js.map",
+    "static/js/2.59a8d6e6.chunk.js": "/Evenajah.github.io/static/js/2.59a8d6e6.chunk.js",
+    "static/js/2.59a8d6e6.chunk.js.map": "/Evenajah.github.io/static/js/2.59a8d6e6.chunk.js.map",
+    "static/js/3.7f21fecc.chunk.js": "/Evenajah.github.io/static/js/3.7f21fecc.chunk.js",
+    "static/js/3.7f21fecc.chunk.js.map": "/Evenajah.github.io/static/js/3.7f21fecc.chunk.js.map",
+    "index.html": "/Evenajah.github.io/index.html",
+    "static/css/main.01c8ce8c.chunk.css.map": "/Evenajah.github.io/static/css/main.01c8ce8c.chunk.css.map",
+    "static/js/2.59a8d6e6.chunk.js.LICENSE.txt": "/Evenajah.github.io/static/js/2.59a8d6e6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Evenajah.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccc326eb.js",
+    "static/js/2.59a8d6e6.chunk.js",
+    "static/css/main.01c8ce8c.chunk.css",
+    "static/js/main.284f12fc.chunk.js"
+  ]
+}
